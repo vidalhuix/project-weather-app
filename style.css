@@ -1,8 +1,9 @@
-body{
-  font-family: sans-serif, 'Gill Sans';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Pacifico&family=Permanent+Marker&family=Roboto:wght@500&display=swap');
+
+body {
+  font-family: "Montserrat", sans-serif;
   margin: 0;
   box-sizing: border-box;
-
 }
 
 main{
@@ -23,7 +24,7 @@ footer{
 footer img{
   padding: 3px 10px;
   max-height: 30px;
-  background-color: ;
+  background-color: none;
 }
 
 footer a{
